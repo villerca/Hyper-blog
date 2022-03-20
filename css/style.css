@@ -6,13 +6,41 @@ body {
 
 #container {
    width: 70%;
-   padding: 1rem;
+   padding: 0;
    text-align: left;
    border: 1px solid black; 
    margin: 0 auto;
 }
 
-#post h1 {
+#cabecera {
+    background: blueviolet;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0.5rem;
     font-weight: bold;
+    box-shadow: 0px 5px 30px 0px black;
+    
+    
+    }
+
+#cabecera #tagline {
+    padding: 1rem 0 0 0;
+    font-weight: normal;
+    font-size: 1em;
+    width: 100%;
+}
+
+
+#post h1  {
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 40px;
+    margin: 1rem;
+
+}
+
+#post p {
     font-size: 20px;
+    padding-top: 25px;
+    margin: 1rem;
 }
