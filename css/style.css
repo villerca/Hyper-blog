@@ -1,7 +1,7 @@
 body {
     color: goldenrod;
     text-align: center;
-    font-family: "courier";
+    font-family: "Arial";
 }
 
 #container {
@@ -29,7 +29,9 @@ body {
     font-size: 1em;
     width: 100%;
 }
-
+#tagline {
+    margin-left: 20px;
+}
 
 #post h1  {
     font-weight: bold;
