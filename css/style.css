@@ -20,7 +20,7 @@ body {
     background: blueviolet;
     color: whitesmoke;
     margin: 0;
-    padding: 0.5rem;
+    padding: 1rem;
     font-weight: bold;
     box-shadow: 0px 5px 30px 0px black;
     
@@ -30,6 +30,7 @@ body {
 #cabecera #logo {
     width: 20px;
     vertical-align: middle;
+    margin-left: 50px;
 }
 
 #cabecera #tagline {
@@ -63,7 +64,7 @@ body {
 
 
 #footer {
-    background: #777;
+    background: cyan;
     color: white;
     text-align: center;
     padding: 0.5rem;
