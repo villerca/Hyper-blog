@@ -17,7 +17,7 @@ body {
 }
 
 #cabecera {
-    background: blueviolet;
+    background: #37488b;
     color: whitesmoke;
     margin: 0;
     padding: 1rem;
@@ -64,7 +64,7 @@ body {
 
 
 #footer {
-    background: cyan;
+    background: #37488b;
     color: white;
     text-align: center;
     padding: 0.5rem;
